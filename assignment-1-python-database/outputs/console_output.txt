@@ -1,0 +1,10 @@
+[warn] API unreachable (ConnectionError); using sample data
+ID  Title                                        Author                   Year
+----------------------------------------------------------------------------------
+3   The Pragmatic Programmer                     Andrew Hunt              1999
+1   Clean Code                                   Robert C. Martin         2008
+2   Designing Data-Intensive Applications        Martin Kleppmann         2017
+[warn] using sample data (ConnectionError)
+Students: 7 | Average: 78.29 | Max: 95 | Min: 59
+[skip] invalid row: {'name': 'Bad Row', 'email': 'not-an-email'}
+inserted=3 skipped_invalid=1 total_in_db=3
